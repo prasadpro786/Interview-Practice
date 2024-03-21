@@ -1,2 +1,0 @@
-usermane = Prasad
-password = uasdsuh
